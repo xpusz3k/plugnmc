@@ -1,0 +1,5 @@
+api:
+  url: "https://twojastrona.pl/api/zakupy"
+  token: "twoj_sekretny_token"
+server:
+  port: 8080

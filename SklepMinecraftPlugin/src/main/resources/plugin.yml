@@ -1,0 +1,6 @@
+name: SklepMinecraftPlugin
+main: com.twojpakiet.SklepMinecraftPlugin
+version: 1.0
+api-version: 1.16
+description: Plugin do odbioru zakupów i wykonywania komend na podstawie integracji z API
+author: dajsonek
